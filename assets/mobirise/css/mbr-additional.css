@@ -812,6 +812,9 @@ a {
   .cid-ud3hcVg9A9 .navbar-nav {
     max-width: 45%;
   }
+  .cid-ubnEOzjIJW {
+    padding-top: 7rem!important;
+  }
 }
 .cid-ud3hcVg9A9 .navbar-nav .nav-item {
   padding: 0 !important;
@@ -1400,8 +1403,8 @@ a {
 }
 .cid-ubnEOzjIJW img,
 .cid-ubnEOzjIJW .image-wrapper {
-  height: 700px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
 }
 @media (max-width: 767px) {
   .cid-ubnEOzjIJW img,
