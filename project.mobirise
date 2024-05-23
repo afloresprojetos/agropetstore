@@ -53,21 +53,23 @@
     "siteUrl": "https://clinica.agropetrs.com.br",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "mbrsiteDomain": "xdeze8etro",
+    "mbrsiteDomain": "lqr1p6ezo4",
     "usedWebp": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-KC1WYRS13J\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-KC1WYRS13J');\n</script>"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Clinica Veterinária Emergência 24h em Cachoeirinha - Agro Pet Store",
+        "meta_descr": "Clinica Veterinária Emergência 24h em Cachoeirinha - Agro Pet Store",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "socialSharingUrl": ""
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo-com-tag-1.png"
       },
       "components": [
         {
